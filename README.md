@@ -1,3 +1,17 @@
 # SISOP
 
-Scheduling -> https://www.evernote.com/shard/s327/sh/0e4663e3-d300-0a3f-ba41-81371a7058fa/PYLHJbogOsxz_w5W6hDlbwv-0tKFdccT_07ldVBb5mBfD77kmalnIRxyxA
+Material de sistemas operativos 2c2023
+
+**Documento resumen con toda la teoría**
+
+**Lab Fork**
+
+**Tres tps grupales**
+
+-Shell
+
+-Scheduler
+
+-Filesystem FUSE
+
+https://fisop.github.io/website/
