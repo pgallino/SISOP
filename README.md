@@ -3,7 +3,9 @@ https://fisop.github.io/website/
 
 ## Material de sistemas operativos 2c2023
 
-Tres trabajos grupales realizados con dos compañeros
+Manual completo teórico: https://github.com/pgallino/SISOP/blob/main/SISOP.pdf (de mi autoría) 
+
+Tres trabajos grupales (3 integrantes):
 
 ### ***Shell***
 Se desarrolla la funcionalidad mínima que caracteriza a un intérprete de comandos shell similar a lo que realizan bash, zsh, fish.
@@ -19,4 +21,4 @@ enunciado completo: https://github.com/pgallino/SISOP/blob/main/TP_scheduler/enu
 ### ***Filesystem FUSE***
 Se implementa nuestro propio sistema de archivos (o filesystem) para Linux. El sistema de archivos utiliza el mecanismo de FUSE (Filesystem in USErspace) provisto por el kernel, que permite definir en modo usuario la implementación de un filesystem. Gracias a ello, el mismo tiene la interfaz VFS y puede ser accedido con las syscalls y programas habituales (read, open, ls, etc).
 
-enunciado completo: https://fisop.github.io/website/tps/filesystem/
+enunciado completo: https://github.com/pgallino/SISOP/blob/main/TP_filesystem/TP3_%20Filesystem%20FUSE.pdf
