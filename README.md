@@ -3,7 +3,7 @@ https://fisop.github.io/website/
 
 ## Material de sistemas operativos 2c2023
 
-Manual completo teórico: https://github.com/pgallino/SISOP/blob/main/SISOP.pdf (de mi autoría) 
+Resumen teórico: https://github.com/pgallino/SISOP/blob/main/SISOP.pdf
 
 Tres trabajos grupales (3 integrantes):
 
